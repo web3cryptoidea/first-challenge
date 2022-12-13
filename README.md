@@ -20,7 +20,7 @@ Refactored page ensures that people with disabilities can access a website using
 N/A
 
 ## Usage 
-This webpage is deployed as per html file provided, you can access it using the following URL:
+This webpage is deployed as per html file provided, you can access it using the following URL: https://web3cryptoidea.github.io/first-challenge/
 You can use Inspector tool and go through all the elements and attributes of *html* file and *css* files and look how they apply to the webpage.
 Look at html and css files in the repositry to go through comments explaining modifications to achieve above mentioned accessibility standards.
 
