@@ -28,7 +28,7 @@ Look at html and css files in the repositry to go through comments explaining mo
 Resources:
 - README basic formatting syntax [GitHub tutorial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - HTML image *alt* attribute [W3school tutorial](https://www.w3schools.com/tags/att_img_alt.asp)
-- HTML semantic elements [W3school tutorial](9https://www.w3schools.com/html/html5_semantic_elements.asp)
+- HTML semantic elements [W3school tutorial](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 ## License
 Please refer to the LICENSE in the repo.
